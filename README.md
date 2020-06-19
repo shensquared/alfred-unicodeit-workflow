@@ -1,8 +1,8 @@
 # Alfred-Unicodeit-Workflow
 
-Built on [unicodeit](https://github.com/svenkreiss/unicodeit/); converts Latex or emoji into unicode right on Alfred; ready to be paste to the current text cursor.
+Built on [unicodeit](https://github.com/svenkreiss/unicodeit/); converts Latex or emoji into unicode right on Alfred; ready to be pasted to the current text cursor.
 
-[Download the workflow]().
+[Download the workflow](https://github.com/shensquared/Alfred-Unicodeit-Workflow/blob/master/unicodeit.alfredworkflow).
 
 ## Usage
 Converts keyboard with the keyword `uni`. Press `Enter` to copy it to the clipboard and paste into in the current cursor/application.
