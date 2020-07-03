@@ -1,4 +1,4 @@
-# Alfred-Unicodeit-Workflow
+# alfred-unicodeit-workflow
 
 Built on [unicodeit](https://github.com/svenkreiss/unicodeit/); converts Latex or emoji into unicode right on [Alfred](https://www.alfredapp.com); ready to be pasted to the current text cursor.
 
